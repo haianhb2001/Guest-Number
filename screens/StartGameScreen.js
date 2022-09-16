@@ -13,8 +13,8 @@ function StartGameScreen({onPickNumber}) {
         setEnteredNumber('');
     }
 
-    // function onPickNumber(chosenNumber) {
-    //     props.onPickNumber(chosenNumber);
+    // function onPickNumber(enteredText) {
+    //     props.onPickNumber(enteredText);
     // }
 
     function confirmInputHandler() {

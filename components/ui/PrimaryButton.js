@@ -18,7 +18,6 @@ function PrimaryButton({ children, onPress }) {
                     </Text>
             </Pressable>
         </View>
-
     );
 }
 

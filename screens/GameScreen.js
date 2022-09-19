@@ -67,9 +67,6 @@ function GameScreen({userNumber, onGameOver}) {
                     </View>
                 </View>
             </Card>
-            <View>
-                {/* LOG ROUNDS */}
-            </View>
         </View>
     );
 }
